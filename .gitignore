@@ -1,0 +1,4 @@
+# Project exclude paths
+/Genarete/target/
+/Gmail/target/
+/out/
